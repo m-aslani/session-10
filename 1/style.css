@@ -1,0 +1,14 @@
+
+input{
+    width: 100px;
+}
+.icon-holder{
+    display: flex;
+    justify-content: space-around;
+    width: 50px;
+}
+button{
+    background-color: white;
+    border: 1px black solid;
+    text-align: center;
+}
